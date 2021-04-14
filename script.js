@@ -7,9 +7,9 @@ img.src = "./media/flappy-bird-set.png";
 
 let gamePlaying = false;
 const gravity = 0.5;
-const speed = 6.2;
+const speed = 5.2;
 const size = [51, 36];
-const jump = -10.5;
+const jump = -9.5;
 const cTenth = canvas.width / 10;
 
 // setting Pipe
